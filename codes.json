@@ -4,7 +4,7 @@
       "code": "SUB001",
       "deviceId": "",
       "durationDays": 30,
-      "used": false
+      "used": True
     },
     {
       "code": "SUB002",
