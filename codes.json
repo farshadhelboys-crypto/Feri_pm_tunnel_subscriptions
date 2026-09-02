@@ -1,0 +1,16 @@
+{
+  "codes": [
+    {
+      "code": "SUB001",
+      "deviceId": "",
+      "durationDays": 30,
+      "used": false
+    },
+    {
+      "code": "SUB002",
+      "deviceId": "",
+      "durationDays": 7,
+      "used": false
+    }
+  ]
+}
