@@ -4,7 +4,7 @@
       "code": "TEST1",
       "deviceId": "",
       "durationDays": 12,
-      "used": false 
+      "used": true
     }
   ]
 }
