@@ -1,15 +1,9 @@
 {
   "codes": [
     {
-      "code": "SUB001",
+      "code": "FPM-30D-TEST1",
       "deviceId": "",
       "durationDays": 30,
-      "used": true
-    },
-    {
-      "code": "SUB002",
-      "deviceId": "",
-      "durationDays": 7,
       "used": false
     }
   ]
