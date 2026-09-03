@@ -1,10 +1,10 @@
 {
   "codes": [
     {
-      "code": "bbt",
+      "code": "bbo",
       "deviceId": "ABB33D31EB1D62FA",
       "durationDays": 12,
-      "used": true
+      "used": false 
     }
   ]
 }
