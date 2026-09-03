@@ -2,7 +2,7 @@
   "codes": [
     {
       "code": "FPM",
-      "deviceId": "",
+      "deviceId": "feti",
       "durationDays": 12,
       "used": true
     }
