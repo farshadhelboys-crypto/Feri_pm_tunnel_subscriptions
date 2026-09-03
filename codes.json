@@ -3,8 +3,8 @@
     {
       "code": "FPM-30D-TEST1",
       "deviceId": "",
-      "durationDays": 1,    
-      "used": false
+      "durationDays": 12,
+      "used": true
     }
   ]
 }
