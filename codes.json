@@ -2,10 +2,17 @@
     "codes": [
         {
             "code": "FERIPM22",
-            "deviceId": "d534f28ab836551b",
+            "deviceId": "",
             "durationDays": 90,
             "used": true,
             "activatedAt": 1790065800000
+        },
+        {
+            "code": "FERIPM-QCS944",
+            "deviceId": "",
+            "durationDays": 7,
+            "used": true,
+            "activatedAt": 1789547400000
         }
     ]
 }
