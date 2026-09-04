@@ -1,11 +1,11 @@
 {
   "codes": [
     {
-      "code": "FPM12345",
-      "deviceId": "d534f28ab836551b",
-      "durationDays": 2,
-      "durationHours": 0,
-      "used": true
+      "code": "CODE123",
+      "deviceId": "",
+      "durationDays": 30,
+      "used": false,
+      "activatedAt": 0
     }
   ]
 }
