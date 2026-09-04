@@ -2,9 +2,9 @@
   "codes": [
     {
       "code": "CODE123",
-      "deviceId": "",
-      "durationDays": 30,
-      "used": false,
+      "deviceId": "d534f28ab836551b",
+      "durationDays": 3,
+      "used": true,
       "activatedAt": 1788530080000‌‌,
     }
   ]
