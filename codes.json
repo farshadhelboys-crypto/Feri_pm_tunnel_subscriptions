@@ -4,8 +4,8 @@
       "code": "CODE12345",
       "deviceId": "d534f28ab836551b",
       "durationDays": 3,
-      "used": false,
-      "activatedAt": 1738500000000
+      "used": true,
+      "activatedAt": 1788534947000
     }
   ]
 }
@@ -16,7 +16,7 @@
       "deviceId": "d534f28ab836551b",
       "durationDays": 3,
       "used": true,
-      "activatedAt": 1725465600000
+      "activatedAt": 1788534947000
     }
   ]
 }
