@@ -1,7 +1,7 @@
 {
   "codes": [
     {
-      "code": "FERIPM12",
+      "code": "FERIPM12", //تست خودم
       "deviceId": "d534f28ab836551b",
       "durationDays": 1,
       "used": true,
