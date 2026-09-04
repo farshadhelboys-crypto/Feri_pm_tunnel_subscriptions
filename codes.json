@@ -11,7 +11,7 @@
             "code": "FERIPM567",
             "deviceId": "",
             "durationDays": 7,
-            "used": true,
+            "used": false,
             "activatedAt": 1789547400000
         }
     ]
