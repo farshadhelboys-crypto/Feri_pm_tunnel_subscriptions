@@ -4,7 +4,7 @@
       "code": "CODE12345",
       "deviceId": "d534f28ab836551b",
       "durationDays": 3,
-      "used": true,
+      "used": false,
       "activatedAt": 1738500000000
     }
   ]
