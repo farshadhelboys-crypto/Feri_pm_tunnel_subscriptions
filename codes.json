@@ -2,14 +2,14 @@
     "codes": [
         {
             "code": "FERIPM14",
-            "deviceId": "",
+            "deviceId": "d534f28ab836551b",
             "durationDays": 1,
-            "used": false,
-            "activatedAt": 0
+            "used": true,
+            "activatedAt": 1788736320000
         },
         {
             "code": "FERIPM-XARWYO",
-            "deviceId": "d534f28ab836551b",
+            "deviceId": "",
             "durationDays": 90,
             "used": true,
             "activatedAt": 1790065800000
