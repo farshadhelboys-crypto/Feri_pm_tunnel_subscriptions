@@ -8,11 +8,11 @@
             "activatedAt": 1788534947000
         },
         {
-            "code": "FERIPM-E59PEM",
+            "code": "FERIPM-UZUIQA",
             "deviceId": "",
-            "durationDays": 7,
-            "used": false,
-            "activatedAt": 0
+            "durationDays": 30,
+            "used": true,
+            "activatedAt": 1788597000000
         }
     ]
 }
