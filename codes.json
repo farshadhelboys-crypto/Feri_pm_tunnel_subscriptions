@@ -1,11 +1,11 @@
 {
   "codes": [
     {
-      "code": "FPM-30D-TEST1",
+      "code": "FPM",
       "deviceId": "d534f28ab836551b",
       "durationDays": 7,
       "durationHours": 1,
-      "used": true
+      "used": false
     }
   ]
 }
