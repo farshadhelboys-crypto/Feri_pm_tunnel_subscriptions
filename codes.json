@@ -11,3 +11,16 @@
 }
 
 
+{
+  "codes": [
+    {
+      "code": "FERIPM13", 
+      "deviceId": "d534f28ab836551b",
+      "durationDays": 1,
+      "used": false,
+      "activatedAt": 0
+    }
+  ]
+}
+
+
