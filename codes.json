@@ -2,7 +2,7 @@
     "codes": [
         {
             "code": "FERIPM22",
-            "deviceId": "",
+            "deviceId": "d534f28ab836551b",
             "durationDays": 90,
             "used": true,
             "activatedAt": 1790065800000
