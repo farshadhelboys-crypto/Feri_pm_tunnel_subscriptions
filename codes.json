@@ -8,11 +8,11 @@
             "activatedAt": 1788534947000
         },
         {
-            "code": "FERIPM-UZUIQA",
+            "code": "FERIPM-XARWYO",
             "deviceId": "",
-            "durationDays": 30,
+            "durationDays": 90,
             "used": true,
-            "activatedAt": 1788597000000
+            "activatedAt": 1790065800000
         }
     ]
 }
