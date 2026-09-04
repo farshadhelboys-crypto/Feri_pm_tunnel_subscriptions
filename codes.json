@@ -1,21 +1,10 @@
 {
   "codes": [
     {
-      "code": "CCO1",
-      "deviceId": "ABB33D31EB1D62FA",
-      "durationDays": "12",
-      "used": true 
-    }
-  ]
-}
-
-{
-  "codes": [
-    {
-      "code": "CC013",
+      "code": "FPM-30D-TEST1",
       "deviceId": "d534f28ab836551b",
-      "durationDays": "12",
-      "used": true
+      "durationDays": 30,
+      "used": false
     }
   ]
 }
