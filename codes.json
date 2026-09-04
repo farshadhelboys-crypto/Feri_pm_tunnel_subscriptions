@@ -9,3 +9,14 @@
     }
   ]
 }
+{
+  "codes": [
+    {
+      "code": "CODE12345678",
+      "deviceId": "d534f28ab836551b",
+      "durationDays": 3,
+      "used": true,
+      "activatedAt": 1738500000000
+    }
+  ]
+}
