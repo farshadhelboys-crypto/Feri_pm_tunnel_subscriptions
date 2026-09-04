@@ -3,20 +3,10 @@
     {
       "code": "CODE12346",
       "deviceId": "d534f28ab836551b",
-      "durationDays": 4,
+      "durationDays": 1,
       "used": true,
       "activatedAt": 1788534947000
     }
   ]
 }
-{
-  "codes": [
-    {
-      "code": "CODE12345",
-      "deviceId": "d534f28ab836551b",
-      "durationDays": 3,
-      "used": true,
-      "activatedAt": 1788534947000
-    }
-  ]
-}
+
