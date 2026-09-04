@@ -3,8 +3,8 @@
     {
       "code": "FPM12345",
       "deviceId": "d534f28ab836551b",
-      "durationDays": 0,
-      "durationHours": 1,
+      "durationDays": 1,
+      "durationHours": 0,
       "used": true
     }
   ]
