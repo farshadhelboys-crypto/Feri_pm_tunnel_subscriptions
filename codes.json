@@ -1,11 +1,3 @@
 {
-    "codes": [
-        {
-            "code": "FERIPM-YMPMCU",
-            "deviceId": "d534f28ab836551b",
-            "durationDays": 1,
-            "used": true,
-            "activatedAt": 1788610481312
-        }
-    ]
+    "codes": []
 }
