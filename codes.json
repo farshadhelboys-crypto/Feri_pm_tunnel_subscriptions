@@ -2,10 +2,10 @@
     "codes": [
         {
             "code": "FERI12345",
-            "deviceId": "d534f28ab836551b",
+            "deviceId": "",
             "durationDays": 7,
-            "used": true,
-            "activatedAt": 1788638820000
+            "used": false,
+            "activatedAt": 0
         }
     ]
 }
