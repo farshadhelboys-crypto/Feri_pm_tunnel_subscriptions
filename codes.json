@@ -1,3 +1,11 @@
 {
-    "codes": []
+    "codes": [
+        {
+            "code": "FERIPM123",
+            "deviceId": "d534f28ab836551b",
+            "durationDays": 30,
+            "used": true,
+            "activatedAt": 1788707280000
+        }
+    ]
 }
